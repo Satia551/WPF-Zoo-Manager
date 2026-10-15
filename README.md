@@ -1,7 +1,8 @@
 # WPF Zoo Manager (C# / MS SQL Server)
 
 A custom-styled desktop CRUD application built with **WPF (.NET)** and **MS SQL Server** for managing zoos, animals, and their associations.
-(Preview.png)
+![Preview](Preview.png)
+
 
 ## Key Features
 
