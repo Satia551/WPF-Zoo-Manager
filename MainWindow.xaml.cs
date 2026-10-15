@@ -66,7 +66,6 @@ public partial class MainWindow : Window
 
             if (listZoos.SelectedItem is DataRowView selectedRow)
             {
-                // Wyciągamy 'Id' bezpośrednio z tabeli
                 int selectedZooId = Convert.ToInt32(selectedRow["Id"]);
 
                 string query =
